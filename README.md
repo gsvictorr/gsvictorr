@@ -2,7 +2,7 @@
 
 
 
-- 💬 Vamos conversar sobre técnologia?
+- 💬 Vamos conversar sobre tecnologia?
 - 📫 Me contate através do link do meu LinkedIn abaixo.
 - ⚡ Proativo e empolgado quando se trata de desenvolvimento de Software!
 
