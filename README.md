@@ -1,7 +1,7 @@
 ### Olá, eu sou o Victor! 👨‍💻
 
 - ⚡ Proativo e empolgado quando se trata de desenvolvimento de Software!
-- - 📫 Me contate através do link do meu LinkedIn abaixo.
+- 📫 Me contate através do link do meu LinkedIn abaixo.
 
 
 <div align="center">
