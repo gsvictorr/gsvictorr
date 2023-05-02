@@ -1,6 +1,6 @@
 ### Olá, eu sou o Victor! 👨‍💻
 
-- ⚡ Proativo e empolgado quando se trata de desenvolvimento de Software!
+- ⚡ Desenvolvedor Java, buscando sempre mais aprendizado. Meu foco é desenvolvimento desktop e aprender mais sobre desenvolvimento web.
 - 📫 Me contate através do link do meu LinkedIn abaixo.
 
 
