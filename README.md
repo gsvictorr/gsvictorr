@@ -1,8 +1,6 @@
 ### Olá, eu sou o Victor! 👨‍💻
 
 - ⚡ Desenvolvedor Web e Java, buscando sempre mais aprendizado.
-- 📫 Me contate através do link do meu LinkedIn abaixo.
-
 
 <div align="center">
 <a href="https://github.com/gsvictorr">
