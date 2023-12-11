@@ -1,6 +1,6 @@
 ### Olá, eu sou o Victor! 👨‍💻
 
-- ⚡ Desenvolvedor Web e Java, buscando sempre mais aprendizado.
+- ⚡ Desenvolvedor, buscando sempre mais aprendizado.
 - 🖥️ Estudando: Java com Sring Boot
 - 🧠 Foco: Desenvolvedor FullStack.
 
