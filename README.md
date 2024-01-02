@@ -1,7 +1,7 @@
 ### Olá, eu sou o Victor! 👨‍💻
 
 - ⚡ Desenvolvedor, buscando sempre mais aprendizado.
-- 🖥️ Estudando: Java com Sring Boot
+- 🖥️ Estudando: Java com Spring Boot
 - 🧠 Foco: Desenvolvedor FullStack.
 
 <div align="center">
